@@ -1,7 +1,9 @@
 <h2 align="center">Sebastian Jordan Montaño</h2>
 
-- Hi, I'm an open-source software developer. I work mainly on object-oriented programming.
-- I’m currently doing a PhD on memory profiling.
+- Hi, I'm software developer. I mainly work on object-oriented programming.
+- I'm currently doing a PhD at [INRIA - Lille](https://www.inria.fr/fr/centre-inria-de-luniversite-de-lille), focusing on memory profilers, allocation sites, memory optimizations and fast and safe code instrumentation for object-oriented programming languages.
+
+Check out my website if you want to know more about me: [jordanmontt.fr](https://www.jordanmontt.fr)
 
 <a align="center">
 
